@@ -5,7 +5,7 @@ Hi, welcome to my site. :smirk_cat:
 
 You can learn how to learn Japanese properly here. Click on the [guide](/guide) to get started! ^^
 
-Resources and a community to answer your questions can be found at our Discord!  
+Resources and a community to answer your questions can be found at our Discord!
 Join us!  
   
 [Join us on Discord :fontawesome-brands-discord:](https://discord.gg/nhqjydaR8j){: .md-button .md-button--primary }  
